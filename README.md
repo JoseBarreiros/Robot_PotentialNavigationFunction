@@ -12,5 +12,6 @@ More info: https://www.cs.cmu.edu/~motionplanning/lecture/Chap4-Potential-Field_
 
 Results:
 
-![alt text](https://raw.githubusercontent.com/JoseBarreiros/Robot_PathPlanningPRM/master/Media/results%20RBB.png)
+![alt text](https://github.com/JoseBarreiros/Robot_PotentialNavigationFunction/blob/master/Media/pote3.png)
+![alt text](https://github.com/JoseBarreiros/Robot_PotentialNavigationFunction/blob/master/Media/poten1.png)
 
